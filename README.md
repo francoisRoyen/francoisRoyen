@@ -1,16 +1,17 @@
-### Hi there 👋
+Hi there !
 
-<!--
-**francoisRoyen/francoisRoyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm quite a curious person who like to make things.
 
-Here are some ideas to get you started:
+Routine is not my thing, I am a passionate person who does not count his hours, if the challenge is present.
+```
+I am currently looking for a company that has the same vision of things as me, to welcome me for an internship as a front-end developer.
+```
+For now, I'm trying to gain as much experience as possible by doing projects with the basics, but essential, of **HTML - CSS - Javascript**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm also learning the framework, **Vue.js** !
+
+Besides web development, I like outdoor sports, going out with my friends, reading non-fiction, dogs and watching series. 🏔
+
+If this speaks to you, contact me !
+
+François

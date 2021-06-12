@@ -1,4 +1,4 @@
-Hi there !
+### Hi there 👋
 
 I'm quite a curious person who like to make things.
 

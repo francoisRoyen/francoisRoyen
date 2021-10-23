@@ -39,15 +39,6 @@ So go see my projects and [contact me](mailto:francois.royen@outlook.com).
 
 ## Projects
 
-<a name="DevLab-Starter-Pack"></a>
-
-### 🚀 DevLab-Starter-Pack
-
-Just my DevLab Starter Pack.
-Feel free to use it for all your testing projects!
-
-- [Repo](https://github.com/francoisRoyen/DevLab-Starter-Pack)
-
 <a name="Todo_App"></a>
 
 ### ✅ Todo App

@@ -14,8 +14,6 @@
 
 ## Presentation
 
----
-
 We don't really care right now, do we ?
 So go see my projects and [contact me](mailto:francois.royen@outlook.com).
 
@@ -23,14 +21,12 @@ So go see my projects and [contact me](mailto:francois.royen@outlook.com).
 
 ## Tools
 
----
-
 - [x] HTML5
 - [x] CSS3 (Sass)
 - [x] Javascript
 - [x] Vue
 - [x] Gsap
-- ...
+- [x] ...
 
 <a name="And_soon"></a>
 
@@ -43,11 +39,9 @@ So go see my projects and [contact me](mailto:francois.royen@outlook.com).
 
 ## Projects
 
----
-
 <a name="DevLab-Starter-Pack"></a>
 
-### DevLab-Starter-Pack 🚀
+### 🚀 DevLab-Starter-Pack
 
 Just my DevLab Starter Pack.
 Feel free to use it for all your testing projects!
@@ -56,7 +50,7 @@ Feel free to use it for all your testing projects!
 
 <a name="Todo_App"></a>
 
-### Todo App ✅
+### ✅ Todo App
 
 A simple todo app, with the basic combo `HTML-CSS-JS`
 
@@ -67,7 +61,7 @@ A simple todo app, with the basic combo `HTML-CSS-JS`
 
 <a name="Movies_Watchlist"></a>
 
-### Movies Watchlist 🎬
+### 🎬 Movies Watchlist
 
 A movie watchlist created with Vue 3 and Composition API
 

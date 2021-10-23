@@ -6,7 +6,6 @@
 - [Tools](#Tools)
   - [And soon](#And_soon)
 - [Projects](#Projects)
-  - [DevLab-Starter-Pack](#DevLab-Starter-Pack)
   - [Todo App](#Todo_App)
   - [Movies Watchlist](#Movies_Watchlist)
 

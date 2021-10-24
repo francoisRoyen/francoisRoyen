@@ -57,3 +57,5 @@ A movie watchlist created with Vue 3 and Composition API
 
 - [Repo](https://github.com/francoisRoyen/Movies-Watchlist)
 - [Live](https://movies-watchlist.netlify.app/)
+
+NB: Just for mobile right now.

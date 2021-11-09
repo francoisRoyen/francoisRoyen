@@ -18,6 +18,10 @@ So go see my projects and [contact me](mailto:francois.royen@outlook.com).
 
 <a name="Tools"></a>
 
+## Codewars
+
+My [codewars profile](https://www.codewars.com/users/francoisRoyen/badges/large)
+
 ## Tools
 
 - [x] HTML5

@@ -20,7 +20,7 @@ So go see my projects and [contact me](mailto:francois.royen@outlook.com).
 
 ## Codewars
 
-My codewars [profile](https://www.codewars.com/users/francoisRoyen)
+My codewars <a href="https://www.codewars.com/users/francoisRoyen" target="_blank">profile</a>
 
 ![badge](https://www.codewars.com/users/francoisRoyen/badges/large)
 

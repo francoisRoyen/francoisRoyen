@@ -36,6 +36,7 @@ My codewars [profile](https://www.codewars.com/users/francoisRoyen)
 
 ### And soon
 
+- [ ] SVG Animation
 - [ ] Typescript
 - [ ] Three.js
 

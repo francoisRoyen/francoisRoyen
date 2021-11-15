@@ -6,7 +6,7 @@
 - [Tools](#Tools)
   - [And soon](#And_soon)
 - [Projects](#Projects)
-  - [Todo App](#Todo_App)
+  - [Calculator](#Calculator)
   - [Movies Watchlist](#Movies_Watchlist)
 
 <a name="Presentation"></a>
@@ -44,16 +44,14 @@ My codewars [profile](https://www.codewars.com/users/francoisRoyen)
 
 ## Projects
 
-<a name="Todo_App"></a>
+<a name="Calculator"></a>
 
-### ✅ Todo App
+### 🧮 Calculator
 
-A simple todo app, with the basic combo `HTML-CSS-JS`
+A simple calculator app, with the basic combo `HTML-CSS-JS`
 
-- [Repo](https://github.com/francoisRoyen/todo-app-v2)
-- [Live](https://movies-watchlist.netlify.app/)
-
-<sub>Design and challenge by Frontend Mentor.</sub>
+- [Repo](https://github.com/francoisRoyen/calculator)
+- [Live](https://pocket-calculator.netlify.app/)
 
 <a name="Movies_Watchlist"></a>
 

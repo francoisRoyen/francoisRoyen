@@ -1,16 +1,5 @@
 # Hi! 👋
 
-## Presentation
-
-We don't really care right now, do we ?
-So go see my projects and [contact me](mailto:francois.royen@outlook.com).
-
-## Codewars
-
-My codewars [profile](https://www.codewars.com/users/francoisRoyen)
-
-![badge](https://www.codewars.com/users/francoisRoyen/badges/large)
-
 ## Tools
 
 - [x] HTML5

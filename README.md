@@ -9,7 +9,7 @@ A simple calculator app, with the basic combo `HTML-CSS-JS`
 - [Repo](https://github.com/francoisRoyen/calculator)
 - [Live](https://pocket-calculator.netlify.app/)
 
-### Giro
+### 📦 Giro
 
 NPM Plugin to create sliders.
 

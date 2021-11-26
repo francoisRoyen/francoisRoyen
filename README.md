@@ -1,20 +1,5 @@
 # Hi! 👋
 
-## Tools
-
-- [x] HTML5
-- [x] CSS3 (Sass)
-- [x] Javascript
-- [x] Vue
-- [x] Gsap
-- [x] ...
-
-### And soon
-
-- [ ] SVG Animation
-- [ ] Typescript
-- [ ] Three.js
-
 ## Projects
 
 ### 🧮 Calculator
@@ -32,3 +17,18 @@ NPM Plugin to create sliders.
 - [NPM](https://www.npmjs.com/package/@f_royen/giro)
 
 > More soon
+
+## Tools
+
+- [x] HTML5
+- [x] CSS3 (Sass)
+- [x] Javascript
+- [x] Vue
+- [x] Gsap
+- [x] ...
+
+### And soon
+
+- [ ] SVG Animation
+- [ ] Typescript
+- [ ] Three.js

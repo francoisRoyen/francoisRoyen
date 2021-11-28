@@ -2,6 +2,13 @@
 
 ## Projects
 
+### 🚀 Space tourism website
+
+A website with Vue 3 Composition API, Vue router, GSAP and more...
+
+- [Repo]()
+- [Live]()
+
 ### 🧮 Calculator
 
 A simple calculator app, with the basic combo `HTML-CSS-JS`

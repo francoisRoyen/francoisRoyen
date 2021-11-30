@@ -38,6 +38,13 @@ NPM Plugin to create sliders.
 - [Repo](https://github.com/francoisRoyen/giro)
 - [NPM](https://www.npmjs.com/package/@f_royen/giro)
 
+### 🕹 Kodenami
+
+A Konami Code plugin
+
+- [Repo](https://github.com/francoisRoyen/kodenami)
+- [NPM](https://www.npmjs.com/package/kodenami)
+
 ### 🧪 DevLab - PWA with Vue 3
 
 Testing progressive web apps with Vue 3

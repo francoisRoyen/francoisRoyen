@@ -5,14 +5,14 @@
 - [x] HTML5
 - [x] CSS3 (Sass)
 - [x] Javascript
-- [x] Vue
+- [x] Vue 3 Composition API
 - [x] Gsap
 - [x] ...
 
 ### And soon
 
-- [ ] SVG Animation
 - [ ] Typescript
+- [ ] SVG Animation
 - [ ] Three.js
 
 ## Projects

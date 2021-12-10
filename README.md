@@ -13,7 +13,7 @@
 
 - [ ] Typescript
 - [ ] SVG Animation
-- [ ] Three.js
+- [ ] WebGL (Three.js)
 
 ## Projects
 

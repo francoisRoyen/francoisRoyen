@@ -17,7 +17,7 @@
 
 ## Projects
 
-### 🚀 Space tourism website
+### 🚀 Space tourism
 
 A website with Vue 3 Composition API, Vue router, GSAP and more...
 

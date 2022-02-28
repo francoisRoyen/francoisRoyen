@@ -29,7 +29,7 @@ A website with Vue 3 Composition API, Vue router, GSAP and more...
 A simple calculator app, with the basic combo `HTML-CSS-JS`
 
 - [Repo](https://github.com/francoisRoyen/calculator)
-- [Live](https://pocket-calculator.netlify.app/)
+- [Live](https://devlab-calculator.netlify.app/)
 
 ### 📦 Giro
 

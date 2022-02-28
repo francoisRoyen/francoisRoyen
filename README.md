@@ -22,7 +22,7 @@
 A website with Vue 3 Composition API, Vue router, GSAP and more...
 
 - [Repo](https://github.com/francoisRoyen/Space-tourism)
-- [Live](https://francoisroyen-space-tourism.netlify.app/)
+- [Live](https://devlab-space-tourism.netlify.app/)
 
 ### 🧮 Calculator
 

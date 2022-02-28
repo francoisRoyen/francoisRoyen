@@ -50,6 +50,6 @@ A Konami Code plugin
 Testing progressive web apps with Vue 3
 
 - [Repo](https://github.com/francoisRoyen/DevLab_PWA-with-Vue-3)
-- [Live](https://devlab-pwa-with-vue-3.netlify.app/)
+- [Live](https://devlab-todo-list.netlify.app/)
 
 > More to come soon

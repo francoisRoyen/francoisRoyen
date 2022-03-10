@@ -11,6 +11,6 @@
 
 ### And soon
 
-- [ ] Typescript
-- [ ] SVG Animation
 - [ ] WebGL (Three.js)
+- [ ] SVG Animation
+- [ ] Typescript

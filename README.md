@@ -7,10 +7,11 @@
 - [x] Javascript
 - [x] Vue 3 Composition API
 - [x] Gsap
-- [x] ...
+- [ ] ...
 
 ### And soon
 
-- [ ] WebGL (Three.js)
+- [ ] WebGL
+- [ ] Three.js
 - [ ] SVG Animation
 - [ ] Typescript

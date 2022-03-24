@@ -6,7 +6,7 @@
 - [x] CSS3 (Sass)
 - [x] Javascript
 - [x] Vue 3 Composition API
-- [x] Gsap
+- [x] GSAP
 - [ ] ...
 
 ### And soon
@@ -15,3 +15,17 @@
 - [ ] Three.js
 - [ ] SVG Animation
 - [ ] Typescript
+
+## Projects
+
+### Base (HTML, CSS and JS)
+- [Calculator](https://devlab-calculator.netlify.app/)
+
+### Base + Vue.js + GSAP
+- [Space Tourism](https://devlab-space-tourism.netlify.app/)
+
+### Base + WebGL
+- [Generative Art](https://devlab-generative-art.netlify.app/)
+
+
+> More to come soon...

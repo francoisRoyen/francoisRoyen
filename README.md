@@ -19,13 +19,13 @@
 
 ## Projects
 
-- HTML, CSS and JS
+- HTML + CSS + JS
   - [Calculator](https://devlab-calculator.netlify.app/)
 
-- ... + Vue + GSAP
+- HTML + CSS + JS + Vue + GSAP
   - [Space Tourism](https://devlab-space-tourism.netlify.app/)
 
-- ... + WebGL
+- HTML + CSS + JS + WebGL
   - [Generative Art](https://devlab-generative-art.netlify.app/)
 
 ## Plugins

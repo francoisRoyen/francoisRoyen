@@ -18,14 +18,19 @@
 
 ## Projects
 
-- Base (HTML, CSS and JS)
-  - [Calculator](https://devlab-calculator.netlify.app/)
+- HTML, CSS and JS
+  [Calculator](https://devlab-calculator.netlify.app/)
 
-- Base + Vue.js + GSAP
-  - [Space Tourism](https://devlab-space-tourism.netlify.app/)
+- ... + Vue.js + GSAP
+  [Space Tourism](https://devlab-space-tourism.netlify.app/)
 
-- Base + WebGL
-  - [Generative Art](https://devlab-generative-art.netlify.app/)
+- ... + WebGL
+  [Generative Art](https://devlab-generative-art.netlify.app/)
+
+## Plugins
+
+- [Giro](https://github.com/francoisRoyen/giro)
+- [Kodenami](https://github.com/francoisRoyen/kodenami)
 
 
 > More to come soon...

@@ -18,14 +18,14 @@
 
 ## Projects
 
-### Base (HTML, CSS and JS)
-- [Calculator](https://devlab-calculator.netlify.app/)
+- Base (HTML, CSS and JS)
+  - [Calculator](https://devlab-calculator.netlify.app/)
 
-### Base + Vue.js + GSAP
-- [Space Tourism](https://devlab-space-tourism.netlify.app/)
+- Base + Vue.js + GSAP
+  - [Space Tourism](https://devlab-space-tourism.netlify.app/)
 
-### Base + WebGL
-- [Generative Art](https://devlab-generative-art.netlify.app/)
+- Base + WebGL
+  - [Generative Art](https://devlab-generative-art.netlify.app/)
 
 
 > More to come soon...

@@ -5,13 +5,14 @@
 - [x] HTML5
 - [x] CSS3 (Sass)
 - [x] Javascript
-- [x] Vue 3 Composition API
+- [x] Vue 3 - Composition API
 - [x] GSAP
+- [ ] WebGL
 - [ ] ...
 
 ### And soon
 
-- [ ] WebGL
+
 - [ ] Three.js
 - [ ] SVG Animation
 - [ ] Typescript
@@ -21,7 +22,7 @@
 - HTML, CSS and JS
   - [Calculator](https://devlab-calculator.netlify.app/)
 
-- ... + Vue.js + GSAP
+- ... + Vue + GSAP
   - [Space Tourism](https://devlab-space-tourism.netlify.app/)
 
 - ... + WebGL

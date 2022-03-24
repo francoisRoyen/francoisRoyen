@@ -31,12 +31,12 @@
 
 - [Generative Art](https://devlab-generative-art.netlify.app/)
 
-> More to come soon...
-
-## Plugins
+#### Plugins
 
 - [Giro](https://github.com/francoisRoyen/giro)
 - [Kodenami](https://github.com/francoisRoyen/kodenami)
+
+> More to come soon...
 
 ## Contact
 

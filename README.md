@@ -7,7 +7,7 @@
 - [x] Javascript
 - [x] Vue 3 - Composition API
 - [x] GSAP
-- [ ] WebGL
+- [x] WebGL
 - [ ] ...
 
 ### And soon

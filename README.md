@@ -31,10 +31,14 @@
 
 - [Generative Art](https://devlab-generative-art.netlify.app/)
 
+> More to come soon...
+
 ## Plugins
 
 - [Giro](https://github.com/francoisRoyen/giro)
 - [Kodenami](https://github.com/francoisRoyen/kodenami)
 
+## Contact
 
-> More to come soon...
+- [Mail](mailto:hello@francois-royen.com)
+- [LinkedIn](https://www.linkedin.com/in/francois-royen/)

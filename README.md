@@ -31,6 +31,10 @@
 
 - [Generative Art](https://devlab-generative-art.netlify.app/)
 
+#### HTML + CSS + JS + PWA
+
+-[PWA - To-Do List](https://pwa-to-do-list.netlify.app/) - in fine-tuning
+
 #### Plugins
 
 - [Giro](https://github.com/francoisRoyen/giro)

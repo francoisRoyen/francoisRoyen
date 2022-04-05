@@ -33,7 +33,7 @@
 
 #### HTML + CSS + JS + PWA
 
-- [PWA - To-Do List](https://pwa-to-do-list.netlify.app/) => in fine-tuning
+- [PWA : To-Do List](https://pwa-to-do-list.netlify.app/)  =>  in fine-tuning
 
 #### Plugins
 

@@ -19,19 +19,21 @@
 
 ## Projects
 
-#### HTML + CSS + JS
+Base === HTML + CSS + JS
+
+#### Base
 
 - [Calculator](https://devlab-calculator.netlify.app/)
 
-#### HTML + CSS + JS + Vue + GSAP
+#### Base + Vue + GSAP
 
 - [Space Tourism](https://devlab-space-tourism.netlify.app/)
 
-#### HTML + CSS + JS + WebGL
+#### Base + WebGL
 
 - [Generative Art](https://devlab-generative-art.netlify.app/)
 
-#### HTML + CSS + JS + PWA
+#### Base + PWA
 
 - [PWA : To-Do List](https://pwa-to-do-list.netlify.app/)  &#8652;  in fine-tuning
 

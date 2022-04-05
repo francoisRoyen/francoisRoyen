@@ -19,9 +19,7 @@
 
 ## Projects
 
-Base === HTML + CSS + JS
-
-#### Base
+#### Base (HTML + CSS + JS)
 
 - [Calculator](https://devlab-calculator.netlify.app/)
 

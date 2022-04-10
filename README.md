@@ -35,6 +35,10 @@
 
 - [PWA : To-Do List](https://pwa-to-do-list.netlify.app/)  &#8652;  in fine-tuning
 
+#### Base + GSAP + Three.js
+
+- [3D Particle Scene](https://devlab-3d-particles.netlify.app/)
+
 #### Plugins
 
 - [Giro](https://github.com/francoisRoyen/giro)

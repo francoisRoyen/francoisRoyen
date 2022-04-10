@@ -36,7 +36,7 @@
 
 #### Base + GSAP + Three.js
 
-- [3D Particle Scene](https://devlab-3d-particles.netlify.app/)
+- [3D Particles Scene](https://devlab-3d-particles.netlify.app/)
 
 #### Plugins
 

@@ -22,6 +22,10 @@
 
 - [Calculator](https://devlab-calculator.netlify.app/)
 
+#### Base + PWA
+
+- [PWA : To-Do List](https://pwa-to-do-list.netlify.app/)  &#8652;  in fine-tuning
+
 #### Base + Vue + GSAP
 
 - [Space Tourism](https://devlab-space-tourism.netlify.app/)
@@ -30,13 +34,13 @@
 
 - [Generative Art](https://devlab-generative-art.netlify.app/)
 
-#### Base + PWA
-
-- [PWA : To-Do List](https://pwa-to-do-list.netlify.app/)  &#8652;  in fine-tuning
-
-#### Base + GSAP + Three.js
+#### Base + Three.js + GSAP
 
 - [3D Particles Scene](https://devlab-3d-particles.netlify.app/)
+
+
+
+
 
 #### Plugins
 

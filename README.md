@@ -8,12 +8,11 @@
 - [x] Vue 3 - Composition API
 - [x] GSAP
 - [x] WebGL
+- [x] Three.js
 - [ ] ...
 
 ### And soon
 
-
-- [ ] Three.js
 - [ ] SVG Animation
 - [ ] Typescript
 

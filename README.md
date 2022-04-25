@@ -21,7 +21,7 @@
 #### Base (HTML + CSS + JS)
 
 - [Calculator](https://devlab-calculator.netlify.app/)
-- [Interactive Timeline](https://devlab-interactive-timeline.netlify.app/) - [Credit for the design idea](https://piloteparis.com/) 
+- [Interactive Timeline](https://devlab-interactive-timeline.netlify.app/) - Credit for the design idea : https://piloteparis.com/
 
 #### Base + PWA
 

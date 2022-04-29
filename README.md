@@ -13,6 +13,7 @@
 
 ### And soon
 
+- [ ] Fullstack MEVN
 - [ ] SVG Animation
 - [ ] Typescript
 

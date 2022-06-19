@@ -1,5 +1,5 @@
 <section>
-  <h1 style='font-size: 18px !important;'>Portfolio</h1>
+  <h1 style='font-size: 10px !important;'>Portfolio</h1>
   <a href="https://www.francois-royen.com/" target="_blank">www.francois-royen.com</a>
   <span>(coming soon...)</span>
 </section>

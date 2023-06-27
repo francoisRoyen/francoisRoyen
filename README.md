@@ -2,11 +2,11 @@
   <section>
     <h2>Projects</h2>
     <ul>
-      <li><a href="https://devlab-3d-particles.netlify.app/">3D Particles</a></li>
-      <li><a href="https://devlab-three-scroll-animation.netlify.app/">3D Scroll Animation</a></li>
-      <li><a href="https://devlab-calculator.netlify.app/">Calculator</a></li>
-      <li><a href="https://devlab-space-tourism.netlify.app/">Space Tourism</a></li>
-      <li><a href="https://devlab-pwa-todo-list.netlify.app/">To-Do List</a></li>
+      <li><a href="https://devlab-3d-particles.netlify.app/">3D Particles (Three.JS)</a></li>
+      <li><a href="https://devlab-calculator.netlify.app/">Calculator (JS)</a></li>
+      <li><a href="https://devlab-three-scroll-animation.netlify.app/">Scroll Animation (Three.JS)</a></li>
+      <li><a href="https://devlab-space-tourism.netlify.app/">Space Tourism (Vue.JS)</a></li>
+      <li><a href="https://devlab-pwa-todo-list.netlify.app/">To-Do List (JS)</a></li>
     </ul>
   </section>
   <section>

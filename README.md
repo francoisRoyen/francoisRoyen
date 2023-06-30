@@ -2,6 +2,7 @@
   <section>
     <h2>Projects</h2>
     <ul>
+      <li><a href="https://devlab-rock-paper-scissors.netlify.app/">Rock, Paper, Scissors, Lizard & Spock (👷🏼‍♂️ en cours)</a></li>
       <li><a href="https://devlab-3d-particles.netlify.app/">3D Particles (Three.JS)</a></li>
       <li><a href="https://devlab-calculator.netlify.app/">Calculator (JS)</a></li>
       <li><a href="https://devlab-three-scroll-animation.netlify.app/">Scroll Animation (Three.JS)</a></li>
